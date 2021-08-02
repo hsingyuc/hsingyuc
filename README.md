@@ -3,7 +3,6 @@
 Connect with me: 
 
 [<img align='left' alt='hsingyuc | LinkedIn' src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-<img align='left' alt='hsingyuc | Slack' src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
 <img align='left' alt='hsingyuc | Zoom' src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" />
 
 <br />
@@ -41,4 +40,3 @@ Languages and Tools:
 
 
 [linkedin]: https://www.linkedin.com/in/hsing-yu-chang/
-[slack]: 
