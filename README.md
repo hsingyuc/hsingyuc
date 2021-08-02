@@ -2,10 +2,9 @@
 
 Connect with me: 
 
-<a href='https://www.linkedin.com/in/hsing-yu-chang/'>
-  <img align='left' alt='hsingyuc | LinkedIn' width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />
-</a><br />
+[<img align='left' alt='hsingyuc | LinkedIn' width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />][linkedin]
 
+<br />
 <br />
 
 Languages and Tools:
@@ -22,3 +21,16 @@ Languages and Tools:
 <img align='left' alt='React' width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align='left' alt='React' width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align='left' alt='React' width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+<br />
+<br />
+
+---
+
+<details>
+  <summary>:zap:GitHub Stats</summary>
+  
+  <img align='left' alt="hsingyu's GitHub Stats" src="https://github-readme-stats-ea5ouzngy-hsingyuc.vercel.app/api?username=hsingyuc&show_icons=true&hide_border=true" />
+</details>
+
+[linkedin]: https://www.linkedin.com/in/hsing-yu-chang/
