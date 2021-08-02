@@ -3,7 +3,7 @@
 Connect with me: 
 
 [<img align='left' alt='hsingyuc | LinkedIn' src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-<img align='left' alt='hsingyuc | Zoom' src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" />
+
 
 <br />
 <br />
