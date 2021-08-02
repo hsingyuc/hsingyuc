@@ -27,10 +27,10 @@ Languages and Tools:
 
 ---
 
-<details>
-  <summary>:zap:GitHub Stats</summary>
-  
-  <img align='left' alt="hsingyu's GitHub Stats" src="https://github-readme-stats-ea5ouzngy-hsingyuc.vercel.app/api?username=hsingyuc&show_icons=true&hide_border=true" />
-</details>
+:zap: GitHub Stats
+<br />
+<br />
+<img align='left' alt="hsingyu's GitHub Stats" src="https://github-readme-stats-ea5ouzngy-hsingyuc.vercel.app/api?username=hsingyuc&show_icons=true&hide_border=true" />
+
 
 [linkedin]: https://www.linkedin.com/in/hsing-yu-chang/
