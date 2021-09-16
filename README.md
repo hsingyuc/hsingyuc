@@ -36,7 +36,7 @@ Languages and Tools:
 :zap: GitHub Stats
 <br />
 <br />
-<img align='left' alt="hsingyu's GitHub Stats" src="https://github-readme-stats-hsingyuc.vercel.app/api?username=hsingyuc&show_icons=true&hide_border=true&theme=material-palenight" />
+<img align='left' alt="hsingyu's GitHub Stats" src="https://github-readme-stats-kappa-ivory.vercel.app/api?username=hsingyuc&show_icons=true&hide_border=true&theme=material-palenight" />
 
 
 [linkedin]: https://www.linkedin.com/in/hsing-yu-chang/
